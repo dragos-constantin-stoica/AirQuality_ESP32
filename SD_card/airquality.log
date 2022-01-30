@@ -1,0 +1,14 @@
+[01/30/2022 21:54:07 UTC]: - [SD]::init: Air Quality application started
+[01/30/2022 21:54:08 UTC]: - [OLED]::init: SSD1306 allocation successful
+[01/30/2022 21:54:10 UTC]: - [SENSOR]::initDHT22: DHT22 initialization successful
+[01/30/2022 21:54:11 UTC]: - [SENSOR]::initMQ135: MQ135 initialization successful
+[01/30/2022 21:54:12 UTC]: - [WiFi]::init: HTTP server running
+[01/30/2022 21:54:13 UTC]: - [WiFi]::init: Tasks scheduled setup
+[01/30/2022 21:54:20 UTC]: - [WiFi]::_wifi_event: Connected to access point: 0.0.0.0
+[01/30/2022 21:54:21 UTC]: - [WiFi]::_wifi_event: Obtained IP address: 192.168.178.56
+[01/30/2022 21:54:21 UTC]: - [WiFi]::wifi_connect_cb: Connected! IP: 192.168.178.56
+[01/30/2022 21:54:24 UTC]: - [RTC]::initNTP: RTC and ESP32 internal clock initialized successfully from NTP server http://worldtimeapi.org/api/timezone/Europe/Luxembourg
+[01/30/2022 21:54:25 UTC]: - [SENSOR]::readDTH22: T: 27.60C
+[01/30/2022 21:54:26 UTC]: - [SENSOR]::readDTH22: H2O: 33.60%
+[01/30/2022 21:54:27 UTC]: - [SENSOR]::readMQ135: CO: 3.93 | Alcohol: 0.50 | CO2: 402.84 | Toluene: 0.55 | Amonium: 4.32 | Acetone: 0.47
+[01/30/2022 21:54:28 UTC]: - [WiFi]::wifi_watchdog_cb: Wi-Fi is connected!
